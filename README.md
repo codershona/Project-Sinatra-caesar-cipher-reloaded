@@ -13,9 +13,6 @@
  3.  Deploy to Heroku using the instructions at the top of this page.
 
 
-
-## Developer: Falguni Islam(Software Developer)
-
 ## Heroku Open :
 
 **[Sinatra Project](https://glacial-crag-64406.herokuapp.com/cipher)**
